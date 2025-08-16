@@ -1,0 +1,12 @@
+{
+  "name": "nazcoin-network",
+  "version": "1.0.0",
+  "description": "Nazcoin - Digital currency with mobile mining (prototype).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
